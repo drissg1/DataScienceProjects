@@ -1,8 +1,8 @@
-### Welcome to My DataScience Projects Page!
+# Welcome to My DataScience Projects Page!
 
 I am a recent Physics and Mathematics graduate from the Univeristy of Ohio State.  I am seeking a career in Data Science and Machine Learning.  This github is place to show some of the projects I am working on at the moment. Enjoy!
 
-# List of Projects:
+## List of Projects:
 * Titanic Kaggle
   * I utilized a series of data cleaning techniques to prepare the titanic data set for a Random Forrest Classifier which was     implemented using SciKit Learn.
   * I achieve a kaggle score of 0.78947.
